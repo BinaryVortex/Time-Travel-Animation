@@ -1,2 +1,2 @@
-# Galaxy-Animation-
-Galaxy Animation Built Using HTML,CSS And Javascript.
+# Time-Travel-Animation
+Time Travel Animation Built Using HTML,CSS And Javascript.
