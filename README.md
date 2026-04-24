@@ -2,8 +2,6 @@
 
 A small interactive time-travel visual animation built using HTML, CSS and JavaScript.
 
-![Demo Screenshot](Screenshot 2024-08-21 193517.png)
-
 ## Overview
 
 This repository contains a lightweight front-end animation that simulates a "time travel" effect using HTML, CSS and vanilla JavaScript. It's intended as a visual demo and can be opened locally in any modern browser.
